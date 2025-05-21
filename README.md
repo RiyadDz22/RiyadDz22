@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I’m Riyad a passionate full-stack developer focused on building modern, scalable, and high-performance applications. My current toolset includes:<br><br>🚀 Technologies I Use:<br><br>Frontend: Flutter,Swift,Golang<br><br>Backend: Golang<br><br>Databases & Backend-as-a-Service: Supabase, Firebase<br><br>Architecture Patterns: MVVM, RESTful APIs, Realtime systems<br><br>I enjoy creating robust mobile apps, backend services, and tools that solve real-world problems. I'm always learning and building — feel free to explore my repositories and connect!
-
+Hi, I’m Riyad a passionate full-stack developer focused on building modern, scalable, and high-performance applications
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riyaddssss) 
