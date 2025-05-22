@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Riyad a passionate full-stack developer focused on building modern, scalable, and high-performance applications
+Hi, I’m Riyad a passionate full-stack mobile developer focused on building modern, scalable, and high-performance applications
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riyaddssss) 
