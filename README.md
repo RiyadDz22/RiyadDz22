@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating coding since 2022.<br>📚 I'm currently learning rust.<br>🎯 Goals: to land a fullstack developer position.<br>🎲 Fun fact: axum framework is really cool.<br>📫 How to reach me: riyadabdessalem18@gmail.com</p>
+<p align="left">✨ Writing code since 2022.<br>📚 I'm currently learning rust.<br>🎯 Goals: to land a fullstack developer position.<br>🎲 Fun fact: axum framework is really cool.<br>📫 How to reach me: riyadabdessalem18@gmail.com</p>
 
 ###
 
